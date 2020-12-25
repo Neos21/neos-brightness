@@ -1,0 +1,30 @@
+{
+  "name": "@neos21/brightness",
+  "version": "0.0.0",
+  "description": "Brightness",
+  "main": "lib/index.js",
+  "bin": {
+    "brightness": "bin/brightness.js"
+  },
+  "scripts": {
+    "start": "node bin/brightness.js"
+  },
+  "author": "Neo <neos21@gmail.com> (https://neos21.net/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/neos-brightness#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/neos-brightness.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neos21/neos-brightness/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  },
+  "dependencies": {
+    "nircmd": "2.0.0",
+    "wmi-client": "0.5.0"
+  }
+}
