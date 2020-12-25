@@ -5,6 +5,18 @@
 Brightness
 
 
+## API
+
+### `brightness.get()` : `Promise<number>`
+
+- Returns : Brightness ... `0` to `100`
+
+### `brightness.set(brightness)` : `Promise<void>`
+
+- Parameter 1 : Brightness
+  - `number | string` : `0` to `100`
+
+
 ## Links
 
 - [Neo's World](https://neos21.net/)
