@@ -1,6 +1,6 @@
 # @neos21/brightness : neos-brightness
 
-[![NPM Version](https://img.shields.io/npm/v/@neos21/brightness.svg)](https://www.npmjs.com/package/@neos21/brightness) [![GPR Version](https://img.shields.io/github/package-json/v/neos21/neos-brightness?label=github)](https://github.com/Neos21/neos-brightness/packages/__ID__)
+[![NPM Version](https://img.shields.io/npm/v/@neos21/brightness.svg)](https://www.npmjs.com/package/@neos21/brightness) [![GPR Version](https://img.shields.io/github/package-json/v/neos21/neos-brightness?label=github)](https://github.com/Neos21/neos-brightness/packages/552077)
 
 Brightness
 
@@ -14,7 +14,7 @@ Brightness
 ### `brightness.set(brightness)` : `Promise<void>`
 
 - Parameter 1 : Brightness
-  - `number | string` : `0` to `100`
+    - `number | string` : `0` to `100`
 
 
 ## Links
