@@ -12,5 +12,5 @@ switch(process.argv[2]) {
   case 'set':
     return exec('set', process.argv[3]);
   default:
-    return console.error('Please input a valid sub command');
+    return console.error('Brightness : Please input a valid sub command');
 }
